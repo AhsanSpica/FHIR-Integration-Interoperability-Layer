@@ -93,7 +93,7 @@ Enhanced FHIR validation layer (pre-submission)
 Observability via OpenTelemetry tracing
 Performance optimization for high-volume event streams
 👨‍💻 Author
-
+M.Ahsan.Siddiqui
 Healthcare Integration Engineer
 
 Specialized in:
